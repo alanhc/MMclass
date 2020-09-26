@@ -5,3 +5,4 @@
 [[data]](https://github.com/alanhc/MMclass/blob/master/final_project/flag.csv)
 [[paper]](https://github.com/alanhc/MMclass/blob/master/final_project/%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88%E5%A0%B1%E5%91%8A.pdf)
 [[code]](https://github.com/alanhc/MMclass/blob/master/final_project/0612demoCode.ipynb)
+![](https://github.com/alanhc/MMclass/blob/master/final_project/mm2.jpg)
